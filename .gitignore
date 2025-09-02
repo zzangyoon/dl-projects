@@ -1,0 +1,12 @@
+# venv
+.venv/
+
+# env
+.env
+
+# runs
+runs
+myresult
+
+# model
+yolo11n.pt
