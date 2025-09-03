@@ -1,0 +1,13 @@
+[project]
+name = "ocr-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.6",
+    "paddleocr>=3.2.0",
+    "paddlepaddle>=3.1.1",
+    "translate>=3.6.1",
+]
