@@ -6,7 +6,22 @@
 
 # runs
 runs
-myresult
+
+
+
+#################################
+# yolo_project
+# runs
+yolo_project/myresult
 
 # model
-yolo11n.pt
+yolo_project/FastSAM/
+yolo_project/model/
+
+# file
+yolo_project/bus.jpg
+#################################
+# cv_project
+# model
+cv_project/model/
+#################################
