@@ -9,6 +9,9 @@ dependencies = [
     "matplotlib>=3.10.6",
     "mediapipe>=0.10.14",
     "opencv-python>=4.12.0.88",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.1",
     "ultralytics>=8.3.191",
+    "xgboost>=3.0.4",
     "yt-dlp>=2025.8.27",
 ]
