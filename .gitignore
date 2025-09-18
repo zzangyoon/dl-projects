@@ -11,17 +11,21 @@ runs
 
 #################################
 # yolo_project
-# runs
+## runs
 yolo_project/myresult
 
-# model
+## model
 yolo_project/FastSAM/
 yolo_project/model/
 
-# file
+## file
 yolo_project/bus.jpg
 #################################
 # cv_project
-# model
+## model
 cv_project/model/
+#################################
+# llm_project
+## folder
+llm_project/audio/
 #################################
