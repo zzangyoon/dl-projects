@@ -7,7 +7,8 @@
 # runs
 runs
 
-
+# cache
+__pycache__
 
 #################################
 # yolo_project
